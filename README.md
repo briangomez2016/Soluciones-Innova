@@ -1,2 +1,2 @@
 # Soluciones-Innova
-Aqui se encuentran los poryectos de soluciones innova.
+Aqui se encuentran los proyectos de soluciones innova.
